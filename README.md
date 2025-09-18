@@ -6,7 +6,7 @@ It demonstrates how to analyze e-commerce data in **BigQuery** and visualize res
 ---
 
 ## 🗂 Project Overview
-We analyze:
+Was analyze:
 - Account creation dynamics
 - User activity by emails (sent, open, visits)
 - Behavior across categories
@@ -19,5 +19,5 @@ We analyze:
 
 Click on the screenshot below to open the **interactive dashboard**:  
 
-[![Dashboard](visualizations/dashboard.png)](https://lookerstudio.google.com/u/0/reporting/83ae1acb-75e6-439b-8200-adaa180e50b6/page/tEnnC "Click to open interactive dashboard")
+[![Dashboard Screenshot](user_email_activity_by_country.png)](https://lookerstudio.google.com/u/0/reporting/83ae1acb-75e6-439b-8200-adaa180e50b6/page/tEnnC "Click to open interactive dashboard")
 
